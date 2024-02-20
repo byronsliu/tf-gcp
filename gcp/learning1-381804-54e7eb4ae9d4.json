@@ -1,7 +1,0 @@
-{
-  "type": "service_account",
-  "project_id": "learning1-381804",
-  "client_email": "learning@learning1-381804.iam.gserviceaccount.com",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "universe_domain": "googleapis.com"
-}
